@@ -1,2 +1,2 @@
 # fortnitebot
-Fortnite bot with Python
+fortniteのショップ情報を自動で呟くbotです。自動でかつ提示で呟く設定はプログラム外で行います。
