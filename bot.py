@@ -78,8 +78,8 @@ def call():
             pic(media_id,i,j,result)
         tweet(media_id,j,result)
     media_id = []
-    name = []
-    vbucks = []
+    name = [shine tme]
+    vbucks = [777777777777777777777777]
     for k in range(0,mod):
         pic(media_id,k,j+1,result)
     tweet(media_id,j+1,result)
